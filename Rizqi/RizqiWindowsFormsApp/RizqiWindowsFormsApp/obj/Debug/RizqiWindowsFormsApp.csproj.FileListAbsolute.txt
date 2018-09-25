@@ -1,0 +1,10 @@
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\obj\Debug\RizqiWindowsFormsApp.csprojAssemblyReference.cache
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\obj\Debug\RizqiWindowsFormsApp.Form1.resources
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\obj\Debug\RizqiWindowsFormsApp.Properties.Resources.resources
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\obj\Debug\RizqiWindowsFormsApp.csproj.GenerateResource.cache
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\obj\Debug\RizqiWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\bin\Debug\RizqiWindowsFormsApp.exe.config
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\bin\Debug\RizqiWindowsFormsApp.exe
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\bin\Debug\RizqiWindowsFormsApp.pdb
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\obj\Debug\RizqiWindowsFormsApp.exe
+E:\Rizqi\RizqiWindowsFormsApp\RizqiWindowsFormsApp\obj\Debug\RizqiWindowsFormsApp.pdb
